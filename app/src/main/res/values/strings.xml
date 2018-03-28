@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AIFORU图片匹配</string>
+    <string name="add_success">恭喜你，新图片添加成功了哦~~</string>
+    <string name="add_failed"><![CDATA[很遗憾，已经有类似的图片了哦 (>_<)]]></string>
+    <string name="search_success">找到了相似的图片了呢！！相似度高达</string>
+    <string name="search_failed">哦糟糕，没有找到相似的图片啊！</string>
+</resources>
